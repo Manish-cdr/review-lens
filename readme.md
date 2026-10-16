@@ -56,11 +56,10 @@ review-lens/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Manish-cdr/review-lens
 cd review-lens
 ```
 
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your repository's actual URL.
 
 ### 2. Install backend dependencies
 
